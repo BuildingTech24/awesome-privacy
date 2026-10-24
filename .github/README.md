@@ -54,7 +54,7 @@ corporations, governments, and hackers from logging, storing or selling your per
 	- [DNS Clients](#dns-clients) (5)
 	- [Firewalls](#firewalls) (14)
 	- [Ad Blockers](#ad-blockers) (7)
-	- [Host Block Lists](#host-block-lists) (5)
+	- [Host Block Lists](#host-block-lists) (6)
 	- [Router Firmware](#router-firmware) (2)
 	- [Network Analysis](#network-analysis) (3)
 	- [Intrusion Detection](#intrusion-detection) (5)
@@ -71,7 +71,7 @@ corporations, governments, and hackers from logging, storing or selling your per
 	- [Cloud Productivity Suites](#cloud-productivity-suites) (4)
 	- [Encrypted Cloud Storage](#encrypted-cloud-storage) (6)
 	- [Secret Sharing](#secret-sharing) (3)
-	- [File Drop](#file-drop) (2)
+	- [File Drop](#file-drop) (1)
 	- [Browser Sync](#browser-sync) (4)
 	- [Habit Trackers](#habit-trackers) (1)
 	- [Secure Conference Calls](#secure-conference-calls) (2)
@@ -897,6 +897,7 @@ detect certain content based on pattern matching
 - **[<img src='https://i.ibb.co/878BLq2/GAFAMSPLATTEXTNOGgit.png' width='14' alt='' /> No Google](https://github.com/nickspaargaren/no-google)** - Totally block all direct and indirect content from Google, Amazon, Facebook, Apple and Microsoft (or just some). 
 - **[<img src='https://icon.horse/icon/easylist.to' width='14' alt='' /> EasyList](https://easylist.to)** - Comprehensive list of domains for blocking tracking, social scripts, bad cookies and annoying stuff. 
 - **[<img src='https://d3pkfiqitivr8j.cloudfront.net/sitefiles/images/favicon.ico' width='14' alt='' /> iBlockList](https://www.iblocklist.com)** - Variety of lists (free and paid-for) for blocking content based on certain topics, inducing: spam, abuse, political, illegal, hijacked, bad peers and more. 
+- **[<img src='https://icon.horse/icon/github.com' width='14' alt='' /> HaGeZi DNS Blocklists](https://github.com/hagezi/dns-blocklists)** - A set of DNS blocklists that block ads, trackers, telemetry, phishing, malware, scams, and other unwanted domains network-wide. They work for any region and with every common DNS server, ad blocker, a[…](https://awesome-privacy.xyz/networking/host-block-lists/hagezi-dns-blocklists "View full HaGeZi DNS Blocklists report") 
 
 <p align="right"><sup><a href="#top">⬆️ [Back to Top]</a></sub></p>
 
@@ -1202,7 +1203,6 @@ It is recommended to encrypt files on your client machine, before syncing to the
 
 ### File Drop
 
-- **[<img src='https://icon.horse/icon/filesend.standardnotes.org' width='14' alt='' /> FileSend](https://filesend.standardnotes.org)** - Simple, encrypted file sharing, with a 500mb limit and 5-day retention. Files are secured with client-side AES-256 encryption and no IP address or device info is logged. Files are permanently deleted[…](https://awesome-privacy.xyz/productivity/file-drop/filesend "View full FileSend report") 
 - **[<img src='https://icon.horse/icon/onionshare.org' width='14' alt='' /> OnionShare](https://onionshare.org/)** - An open source tool that lets you securely and anonymously share a file of any size, via Tor servers. OnionShare does require installing, but the benefit is that your files are transferred directly to[…](https://awesome-privacy.xyz/productivity/file-drop/onionshare "View full OnionShare report") 
 
 <details>
